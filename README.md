@@ -25,3 +25,5 @@ Image Credits: Unsplash
 - CatBBoost and XGB Regressor does not converge well.
 - We determined the optimal threshold for LGBM to be 0.99 which practically boiled down to the idea that stacked ensembles do not work well.
 - Better hyperparameter tuning of the LGBM would have yielded better results, with the current model ranking at Public Leaderboard Rank 10.
+
+Learning Outcome: Focus on not just making features, but also tuning the model due to time constraint did not tune the model very well, however after tuning it will give Private Leaderboard Rank 2!
