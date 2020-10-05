@@ -1,8 +1,15 @@
 # Youtube-Likes-Prediction
 
+![pypi](https://img.shields.io/pypi/v/pybadges.svg)
+![versions](https://img.shields.io/pypi/pyversions/pybadges.svg)
+
 **What Worked and What Did Not?**
 
 ### Leaderboard Rank 10
+
+![alt-text](https://images.unsplash.com/photo-1495106245177-55dc6f43e83f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80)
+
+Image Credits: Unsplash
 
 
 - One Hot Encoding on the categorical columns set did work only till minimizing the error to 650 with XGBRegressor and CatBoostRegressor, hence did not work well.
