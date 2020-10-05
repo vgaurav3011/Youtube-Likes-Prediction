@@ -3,6 +3,8 @@
 ![pypi](https://img.shields.io/pypi/v/pybadges.svg)
 ![versions](https://img.shields.io/pypi/pyversions/pybadges.svg)
 
+### HACKLIVE 2.0 conducted by AnalyticsVidhya
+
 **What Worked and What Did Not?**
 
 ### Leaderboard Rank 10
