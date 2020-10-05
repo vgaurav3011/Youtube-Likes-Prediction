@@ -2,6 +2,9 @@
 
 **What Worked and What Did Not?**
 
+### Leaderboard Rank 10
+
+
 - One Hot Encoding on the categorical columns set did work only till minimizing the error to 650 with XGBRegressor and CatBoostRegressor, hence did not work well.
 -  Label Encoding on Categorical Columns proved to be a better idea, since the number of category ids were less than 30, and further we can use their label encoded values to create aggregation based features.
 - The numerical columns are highly correlated to the target variable, hence it performs decently well alone too, but aggregated features from them would be more beneficial.
